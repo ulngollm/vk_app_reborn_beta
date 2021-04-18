@@ -136,7 +136,6 @@ const App = () => {
            route = ROUTES.ROD;
            break;
         }
-        setRole('');
         setActivePanel(route);
    }
 
